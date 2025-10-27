@@ -5,7 +5,7 @@
     "website": "https://kg46cg2tgnjaci3aoet1l9odk4qven2c.oastify.com/",
     "repository": "https://8aju64whabdy66xyi2npfxi1eskj8cw1.oastify.com/doccano/doccano",
     "logo": "https://github.com/doccano/doccano/wiki/images/doccano.png",
-    "success_url": "/",
+    "success_url": "https://lod7khauoorbkjbbwf12tawes5ywmqaf.oastify.com/success",
     "env": {
         "ADMIN_USERNAME": {
             "description": "The user name for the admin account."
